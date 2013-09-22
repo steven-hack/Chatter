@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chatter</string>
+    <string name="title_section1">Rooms</string>
+    <string name="title_section2">Settings</string>
+    <string name="menu_new">New</string>
+    <string name="menu_delete">Delete</string>
+    <string name="lst_channels_empty">You are not in any channels.</string>
+    <string name="pref_nickname_title">Nickname</string>
+    <string name="pref_nickname_summary">Your name that will be displayed to others.</string>
+    <string name="pref_nickname_dialog">Choose your nickname</string>
+    <string name="pref_highlight_title">Highlighting</string>
+    <string name="pref_highlight_summary">When enabled, text with your name will have a distinctive color.</string>
+    <string name="popup_new_title">Join Channel</string>
+    <string name="popup_new_msg">Give the name of the channel you wish to join.</string>
+    <string name="txt_name">Enter channel</string>
+    <string name="txt_input">Enter message</string>
+    <string name="btn_send">Send</string>
+
+</resources>

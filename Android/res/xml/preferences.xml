@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="General Settings">
+
+        <EditTextPreference
+                android:key="preference_nickname"
+                android:title="@string/pref_nickname_title"
+                android:summary="@string/pref_nickname_summary"
+                android:dialogTitle="@string/pref_nickname_dialog" />
+
+        <CheckBoxPreference
+                android:key="preference_highlight"
+                android:title="@string/pref_highlight_title"
+                android:summary="@string/pref_highlight_summary" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
